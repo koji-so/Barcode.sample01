@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcode.sample01</string>
+    <string name="text">読み取ったデータを表示</string>
+    <string name="button">バーコード再読み込み</string>
+</resources>
